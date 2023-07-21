@@ -20,5 +20,6 @@ Where from here?
 2 Hack some of those WiFi controlled switches so the ESP32 can use them to start a coffeemaker, lights, etc.
 3 Delve into HTML & CSS, possibly python, to allow the ESP32 to serve up nicer webpages.   
 4 Incorporate "real feel" temperature calculation into the ESP32
-So the goal here really is to be less dependant on the various smartphone apps, and be able to just take a higher level of control over my WiFi system.  
+
+So the goal here really is to be less dependant on the various smartphone apps, and be able to just take a higher level of control over my WiFi system.  And to play.
 
